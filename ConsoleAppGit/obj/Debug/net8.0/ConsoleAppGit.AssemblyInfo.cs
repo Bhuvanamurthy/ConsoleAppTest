@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5695d23fc858bb11d41178b9891f45b1c680d8d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

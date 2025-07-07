@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\bhuvanamurthy.m.g\\source\\repos\\ConsoleAppGit\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{015BCE55-8D72-45BB-80AE-9E2281EB4229}|ConsoleAppGit\\ConsoleAppGit.csproj|c:\\users\\bhuvanamurthy.m.g\\source\\repos\\consoleappgit\\consoleappgit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015BCE55-8D72-45BB-80AE-9E2281EB4229}|ConsoleAppGit\\ConsoleAppGit.csproj|solutionrelative:consoleappgit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{015BCE55-8D72-45BB-80AE-9E2281EB4229}|ConsoleAppGit\\ConsoleAppGit.csproj|c:\\users\\bhuvanamurthy.m.g\\source\\repos\\consoleappgit\\consoleappgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015BCE55-8D72-45BB-80AE-9E2281EB4229}|ConsoleAppGit\\ConsoleAppGit.csproj|solutionrelative:consoleappgit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\bhuvanamurthy.m.g\\source\\repos\\ConsoleAppGit\\ConsoleAppGit\\Class1.cs",
+              "RelativeDocumentMoniker": "ConsoleAppGit\\Class1.cs",
+              "ToolTip": "C:\\Users\\bhuvanamurthy.m.g\\source\\repos\\ConsoleAppGit\\ConsoleAppGit\\Class1.cs",
+              "RelativeToolTip": "ConsoleAppGit\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T09:55:45.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bhuvanamurthy.m.g\\source\\repos\\ConsoleAppGit\\ConsoleAppGit\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppGit\\Program.cs",
               "ToolTip": "C:\\Users\\bhuvanamurthy.m.g\\source\\repos\\ConsoleAppGit\\ConsoleAppGit\\Program.cs",
               "RelativeToolTip": "ConsoleAppGit\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-07T06:25:47.699Z",
               "EditorCaption": ""
